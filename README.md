@@ -5,9 +5,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lama-medhat-ab0898198/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lamasalem@sun.ac.za)
 
-💡 Bioinformatician 
-🎓 MSc in Bioinformatics in Infectious Disease and Pathogen Genomics at Stellenbosch University
-🎓 Bachelor's in Computers and Information
+💡 Bioinformatician <br>
+🎓 MSc in Bioinformatics in Infectious Disease and Pathogen Genomics at Stellenbosch University <br>
+🎓 Bachelor's in Computers and Information <br>
 
 ## 🛠 Tech Stack
 
