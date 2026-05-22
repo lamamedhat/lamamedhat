@@ -1,4 +1,4 @@
-![Header Image](https://via.placeholder.com/800x200?text=Bioinformatics+%26+Computer+Vision)
+![Header Image]()
 
 ## 👩‍💻 About
 
