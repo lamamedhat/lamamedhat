@@ -1,4 +1,4 @@
-![Header Image]()
+![Header Image](https://github.com/lamamedhat/lamamedhat/blob/main/GitHub%20photo.png)
 
 ## 👩‍💻 About
 
