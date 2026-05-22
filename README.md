@@ -6,7 +6,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lamasalem@sun.ac.za)
 
 💡 Bioinformatician 
+
 🎓 MSc in Bioinformatics in Infectious Disease and Pathogen Genomics at Stellenbosch University
+
 🎓 Bachelor's in Computers and Information
 
 ## 🛠 Tech Stack
