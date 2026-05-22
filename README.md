@@ -5,10 +5,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lama-medhat)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lamasalem@sun.ac.za)
 
-💡 Bioinformatician and Computer Vision Engineer
+💡 Bioinformatician 
 🎓 MSc in Bioinformatics in Infectious Disease and Pathogen Genomics at Stellenbosch University
-🎓 Bachelor's in Computers and Information from Menofia University
-🌍 Based in Cape Town, South Africa
+🎓 Bachelor's in Computers and Information
 
 ## 🛠 Tech Stack
 
@@ -19,9 +18,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-## ⚙️ GitHub Analytics
-
-<div style="display: flex; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=lamamedhat&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamamedhat&layout=compact&theme=tokyonight" alt="Top Languages" width="48%">
-</div>
